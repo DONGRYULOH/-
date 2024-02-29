@@ -11,3 +11,4 @@
 2024.02.24 - [Z](https://www.acmicpc.net/problem/1074) (재귀)  
 2024.02.26 - [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) (재귀)  
 2024.02.28 - [1780](https://www.acmicpc.net/problem/1780) (재귀)
+2024.02.29 - [2630](https://www.acmicpc.net/problem/2630) (재귀)
